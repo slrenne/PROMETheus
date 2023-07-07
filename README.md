@@ -15,7 +15,8 @@ The repository contains the following files and directories:
 
 ## Datasets
 
-The datasets used in this project can be downloaded from Zenodo at the following link: [Download Datasets](link_to_zenodo)
+The datasets used in this project can be downloaded from Zenodo at the following link: [Download Datasets](https://zenodo.org/record/8123540)
+
 ## Requirements
 
 The following software versions were used for developing and running this project:
