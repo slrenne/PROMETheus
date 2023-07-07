@@ -1,7 +1,5 @@
-# PROMETheus
-
-
-## PROMETheus (PReOperative Mitosis Estimator Tool) -- An App to Predict Mitotic Count on the Surgical Specimen in GIST.
+# PROMETheus (PReOperative Mitosis Estimator Tool) 
+## An App to Predict Mitotic Count on the Surgical Specimen in GIST.
 
 ### Introduction.
 Accurate preoperative risk stratification in Gastrointestinal Stromal Tumors (GISTs) is crucial for determining the need for neoadjuvant therapy. However, existing methods, such as biopsy-based mitotic count assessment, suffer from limitations such as tumor heterogeneity and sampling bias. To address this, we developed an innovative App that enhances patient stratification accuracy. 
